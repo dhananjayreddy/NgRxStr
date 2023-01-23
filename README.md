@@ -1,0 +1,2 @@
+# NgRxStr
+NgRxStructure
